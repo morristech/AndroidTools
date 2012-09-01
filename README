@@ -4,3 +4,5 @@ Most of them are simple wrappers for ADB, both command line and GUI tools will b
 The command line tools are mostly simple C, while the GUI tools use C# and the .NET Framework, for integration with Windows.
 
 All of the code is tested on Windows, but should theoretically work on any platform with the proper toolchain(s).
+
+UPDATE: I have now begun work on testing the tools on Linux as well. Stay tuned.
