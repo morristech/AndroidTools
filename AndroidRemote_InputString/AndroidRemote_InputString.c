@@ -10,6 +10,8 @@
  * and $PATH has been correctly updated (if it has, typing 'adb' into a terminal
  * emulator should work).
  *
+ * UPDATE: I have confirmed that it does definitely work on Linux.
+ *
  * Author: omegavesko@gmail.com
  */
 
