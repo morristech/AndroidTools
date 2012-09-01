@@ -1,0 +1,6 @@
+This repository contains various tools used to interact with Android devices.
+
+Most of them are simple wrappers for ADB, both command line and GUI tools will be available once I finish them.
+The command line tools are mostly simple C, while the GUI tools use C# and the .NET Framework, for integration with Windows.
+
+All of the code is tested on Windows, but should theoretically work on any platform with the proper toolchain(s).
