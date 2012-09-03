@@ -27,7 +27,7 @@ int main()
 		sprintf(runString, "adb -d shell input text ");
 		scanf("%s", &userInput);
 
-		sprintf(runString, "%s%s", runString, userInput);
+		sprintf(runString, "%s\"%s\"", runString, userInput);
 
 		system(runString);
 	}
