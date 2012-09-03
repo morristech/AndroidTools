@@ -21,4 +21,4 @@ echo "You should see your device here:"
 adb devices
 echo "Have fun!"
 echo "-----------------------"
-./AndroidRemote_InputString
+./InputString

@@ -3,4 +3,4 @@
 # This should go without saying, but you still need to compile it manually on Windows, since Windows doesn't come with a standard compiler I can call.
 
 all:
-	gcc AndroidRemote_InputString.c -o AndroidRemote_InputString
+	gcc InputString.c -o InputString
